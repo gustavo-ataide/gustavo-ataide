@@ -1,28 +1,40 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/gustavo-ataide/gustavo-ataide/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/gustavo-ataide/gustavo-ataide/blob/main/Purple%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png" />
+
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">I ❤️ solving great challenges using tech.<br><br>
+
+From backend development using Django to crafting high-quality solutions, I'm passionate about tackling complex problems with technology. I'm a backend developer who thrives on programming logic, paradigms, and algorithms. What excites me even more is using these skills to address real user issues. My main programming languages are <strong>Python</strong> and <strong>Swift</strong>.
+
+Currently, I'm an undergraduate student majoring in Computer Engineering at the Federal Institute of Paraíba, where I'm honing my computing knowledge and preparing for more intricate challenges.
+
+I'm always eager to expand my technical repertoire by exploring new technologies and frameworks. From backend systems with Django to mobile app development with Swift, I'm committed to delivering high-quality solutions that cater to real-world needs.
+
+If you share a passion for solving exciting challenges with technology, let's collaborate and build something remarkable together!
+
+📫 Contact me: gustavoataide.trabalho@gmail.com</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=gustavo-ataide&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-gustavo-ataide.vercel.app/api/top-langs/?username=gustavo-ataide&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=gustavo-ataide&theme=yeblu&mode=weekly" />
+<img width=40% align="center"  src="https://github-readme-stats.vercel.app/api?username=gustavo-ataide&show_icons=true&theme=yeblu&mode=weekly" />
 
+ </div>
+
+ &nbsp;
+ &nbsp;
 
 
 ## My Skills
 
-#### Main Stack:
-
+#### Main Stack:&nbsp;
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![SwiftUi](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
+![UIKit](https://img.shields.io/badge/UIKit-FA7343?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 
@@ -31,7 +43,7 @@
 
 #### Secondary Stack:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
@@ -70,4 +82,4 @@
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=21325e&height=120&section=footer"/>
