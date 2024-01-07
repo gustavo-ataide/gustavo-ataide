@@ -17,7 +17,7 @@ If you share a passion for solving exciting challenges with technology, let's co
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=gustavo-ataide&theme=yeblu&mode=weekly" />
-<img width=40% align="center"  src="https://github-readme-stats.vercel.app/api?username=gustavo-ataide&show_icons=true&theme=yeblu&mode=weekly" />
+
 
  </div>
 
